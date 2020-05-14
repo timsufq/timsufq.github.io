@@ -23,7 +23,7 @@ author:
   name: Timsufq
   email: timsufq@gmail.com
 email: timsufq@gmail.com
-show_excerpts: true
+show_excerpts: false
 description: >- # this means to ignore newlines until "baseurl:"
   a blog
 baseurl: "" # the subpath of your site, e.g. /blog
