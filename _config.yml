@@ -21,12 +21,12 @@
 title: timsufq's blog
 email: timsufq@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  "Our winters are very long here, very long and very monotonous. But we don't complain about it downstairs, we're shielded against the winter. Oh, spring does come eventually, and summer, and they last for a while, but now, looking back, spring and summer seem too short, as if they were not much more than a couple of days, and even on those days, no matter how lovely the day, it still snows occasionally."
+  "He is terribly afraid of dying because he hasn’t yet lived."
   ― Franz Kafka, The Castle
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://timsufq.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: timsufq
+github_username:  timsufq
 
 # Build settings
 theme: minima
