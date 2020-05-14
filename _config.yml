@@ -29,7 +29,7 @@ twitter_username: timsufq
 github_username:  timsufq
 
 # Build settings
-theme: minima
+theme: jekyll-theme-modernist
 plugins:
   - jekyll-feed
 
