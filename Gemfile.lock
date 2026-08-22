@@ -224,7 +224,6 @@ GEM
     rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
-    rexml (3.3.9)
     rouge (3.13.0)
     ruby-enum (0.9.0)
       i18n
@@ -249,7 +248,7 @@ GEM
     tzinfo-data (1.2022.4)
       tzinfo (>= 1.0.0)
     unicode-display_width (1.7.0)
-    uri (0.13.1)
+    uri (0.13.3)
     wdm (0.1.1)
     zeitwerk (2.7.1)
 
