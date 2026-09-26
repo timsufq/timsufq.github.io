@@ -209,8 +209,8 @@ GEM
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
     minitest (5.25.1)
-    net-http (0.4.1)
-      uri
+    net-http (0.9.1)
+      uri (>= 0.11.1)
     nokogiri (1.19.4)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
@@ -227,7 +227,7 @@ GEM
     rouge (3.13.0)
     ruby-enum (0.9.0)
       i18n
-    rubyzip (2.3.2)
+    rubyzip (3.4.0)
     safe_yaml (1.0.5)
     sass (3.7.4)
       sass-listen (~> 4.0.0)
@@ -253,7 +253,6 @@ GEM
     zeitwerk (2.7.1)
 
 PLATFORMS
-  ruby
 
 DEPENDENCIES
   github-pages (~> 204)
